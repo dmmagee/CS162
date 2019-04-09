@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">MageeD HelloWorld</string>
     <string name="app_string">Welcome to Climber</string>
+    <string name="knock_joke_01">Knock knock?</string>
+    <string name="knock_joke_02">Who\'s there?</string>
+    <string name="knock_joke_03">Interrupting cow.</string>
+    <string name="knock_joke_04">Interrupting c--</string>
+    <string name="knock_joke_05">Moo!!!</string>
 </resources>
