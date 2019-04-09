@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MageeD HelloWorld</string>
+    <string name="app_string">Welcome to Climber</string>
 </resources>
